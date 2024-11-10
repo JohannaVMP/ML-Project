@@ -2,6 +2,7 @@
 Repository containing the project files for Intel Machine Learning certification Project.
 
 Description: <br />
--Preprocessing_stage.ipynb: data preparation steps for data modeling. <br />
--Prediction_stage.ipynb: implementation of machine learning models. <br />
--Results.csv: resulting predictions. <br />
+-train.csv: provided train dataset. <br />
+-test.csv: provided test dataset. <br />
+-analisys.ipynb: data preparation steps for data modeling and implementation of machine learning models. <br />
+-results.csv: resulting predictions.
